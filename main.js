@@ -19,6 +19,14 @@ const data = [
   src:'image/KaspaWallet.svg',
   txt:'Kaspa Wallet'
 },
+   {
+  src:'image/bestWallet.webp',
+  txt:'Best Wallet'
+},
+  {
+  src:'image/Crypto Wallet.jpg',
+  txt:'Crypto Onchain'
+},
 
 
 {
