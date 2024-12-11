@@ -15,6 +15,10 @@ const data = [
   src:'image/Defi Wallet.PNG',
   txt:'Defi Wallet'
 },
+  {
+  src:'image/KaspaWallet.svg',
+  txt:'Kaspa Wallet'
+},
 
 
 {
