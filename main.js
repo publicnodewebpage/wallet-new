@@ -337,6 +337,26 @@ const data = [
   src:'image/Crypto Wallet.jpg',
   txt:'Crypto Onchain'
 },
+  {
+  src:'image/okx.png',
+  txt:'OKX'
+},
+   {
+  src:'image/tp.png',
+  txt:'Token Pocket'
+},
+  {
+  src:'image/bitmart.png',
+  txt:'BitMart'
+},
+  {
+  src:'image/bitrue.png',
+  txt:'Bitrue'
+},
+   {
+  src:'image/tronkepper.png',
+  txt:'TronKeeper'
+},
 ]
 
 
